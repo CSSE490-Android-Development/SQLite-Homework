@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_due">Date Due</string>
+    <string name="name">Name</string>
+    <string name="add_task">Add Task</string>
+</resources>

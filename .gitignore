@@ -1,0 +1,7 @@
+gen/
+bin/
+.hg/
+.metadata/
+*.DS_Store
+.*.swp
+.settings/
